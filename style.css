@@ -1,6 +1,6 @@
 div {
     border: 2px solid red;
-    color: darkmagenta;
+    background-color: silver;
     width: 200px;
     height: 200px;
     text-align: center;
@@ -9,6 +9,5 @@ div {
 }
 
 #Name {
-    background-color: darkred;
-
+    background-color: steelblue;
 }
