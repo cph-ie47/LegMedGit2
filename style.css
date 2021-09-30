@@ -2,9 +2,9 @@ div {
     border: 2px solid red;
     background-color: silver;
     width: 400px;
-    height: 400px;
+    height: auto;
     text-align: center;
-    padding: 150px 0;
+    padding: 100px;
 
 }
 
